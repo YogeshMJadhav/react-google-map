@@ -60,5 +60,5 @@ if (this.state.showingInfoWindow) {
 }
 
 export default GoogleApiWrapper({
-  apiKey: 'GOOGLE_API_KEY'
+  apiKey: 'YOUR_GOOGLE_API_KEY'
 })(App);
