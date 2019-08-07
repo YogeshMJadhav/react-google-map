@@ -60,5 +60,5 @@ if (this.state.showingInfoWindow) {
 }
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyCT3DSaZmheznyoQ1KGNo01HSx7KjGZn8U'
+  apiKey: 'Paste_here_your_Google_API_key'
 })(App);
